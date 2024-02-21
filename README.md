@@ -22,6 +22,8 @@ $ git clone https://github.com/jupe/puml2code.git
 $ npm i
 $ bin/puml2code -h
 ```
+test
+
 
 Running tests
 ```bash
